@@ -1,0 +1,11 @@
+.wrapper{
+    border: 5px double purple;
+    margin: 0px 500px 0px 500px;
+    width: 400px;
+}
+#fontstyle{
+    font-family:Arial, Helvetica, sans-serif
+}
+body{
+    background-color: blue;
+}
